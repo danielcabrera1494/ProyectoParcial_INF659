@@ -1,7 +1,0 @@
-echo "# ProyectoParcial_INF659" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/danielcabrera1494/ProyectoParcial_INF659.git
-git push -u origin main
